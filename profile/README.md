@@ -1,12 +1,16 @@
 ## Hi there 👋
+这里是 Omoe，只有我一个人的小“团队”！
 
+## 所有版本的Logo
 <details>
-  <summary>点击展开折叠内容</summary>
+  <summary>展开 普通版（PNG原图）</summary>
 
-  这里是折叠的内容。
+  ![Logo 普通版（PNG原图）](https://github.com/Omoe-Team/files/blob/f3e79817fcd999940c7934631511916a0d75abb6/images/logo/Omoe_logo.png)
 
-  ![图片描述](链接到图片的URL)
+</details>
+<details>
+  <summary>展开 暗黑版（PNG原图）</summary>
 
-  可以包含任何Markdown格式的文本、列表、代码等。
+  ![Logo 暗黑版（PNG原图）](https://github.com/Omoe-Team/files/blob/f3e79817fcd999940c7934631511916a0d75abb6/images/logo/Omoe_Logo_dark.png)
 
 </details>
