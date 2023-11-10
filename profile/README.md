@@ -1,7 +1,7 @@
 ## Hi there 👋
 这里是 Omoe，只有我一个人的小“团队”！
 
-## 所有版本的Logo
+## 所有版本的Logo 🥵
 <details>
   <summary>[展开] 普通版（PNG原图）</summary>
 
