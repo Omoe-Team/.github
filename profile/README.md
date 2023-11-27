@@ -1,5 +1,6 @@
 ## Hi there 👋
-这里是 Omoe，只有我一个人的小“团队”！
+这里是 Omoe，只有我一个人的小“团队”！  
+实习组的 @chudongyuxi 是来打杂的~
 
 ## 所有版本的Logo 🥵
 <details>
